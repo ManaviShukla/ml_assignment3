@@ -1,0 +1,2 @@
+Clusters,Time (sec),Homogeneity Score,Completeness Score,V-Measure Score,Adjusted Rand Score,Adjusted Mutual Information Score,Silhouette Score,Accuracy Score,Sum of Squared Distances
+2,0.053911447525024414,0.005104031440019858,0.00631616638157225,0.005645771167113967,0.04917260043360391,0.005627101406103529,0.7392634377675794,0.7864416135264297,2760498.9682692625

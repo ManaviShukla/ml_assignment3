@@ -34,12 +34,16 @@ Copy code
 pip install -r requirements.txt
 List of Required Libraries:
 
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
-jupyter
+imbalanced_learn==0.12.3
+imblearn==0.0
+joblib==1.3.2
+matplotlib==3.8.2
+numpy==2.0.0
+pandas==2.2.2
+scikit_learn==1.5.1
+scipy==1.14.0
+seaborn==0.13.2
+ucimlrepo==0.0.7
 
 4. Running the Code
 Jupyter Notebook:
